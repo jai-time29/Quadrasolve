@@ -1,0 +1,25 @@
+# 🎮 MultiGame Project in C
+
+This project is a **C-based multigame application** that includes two classic games — **Connect 4** and **Sudoku**.  
+It demonstrates modular programming, logic design, and user interface handling using basic C concepts.
+
+## 🕹️ Games Included
+1. **Connect 4**
+   - Two-player mode
+   - Dynamic grid update and win detection
+   - Input validation and replay feature
+
+2. **Sudoku**
+   - Automatically generated puzzles
+   - Player input validation
+   - Option to check and display solutions
+
+## ⚙️ Technologies Used
+- Programming Language: **C**
+- Concepts: Arrays, Functions, Loops, Conditional Logic, File Handling
+
+## 🚀 How to Run
+1. Compile using any C compiler (e.g., GCC)
+   ```bash
+   gcc multigame.c -o multigame
+   ./multigame
